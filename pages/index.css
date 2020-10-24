@@ -1,6 +1,5 @@
 @import url("../vendor/normalize.css");
-@import url("../blocks/rotation/");
-@import url("../opacity/opacity.css");
+@import url("../blocks/rotation/rotation.css");
 @import url("../blocks/page/page.css");
 @import url("../blocks/header/header.css");
 @import url("../blocks/header/__link/header__link.css");
@@ -72,3 +71,4 @@
 @import url("../blocks/footer/__link/footer__link.css");
 @import url("../blocks/footer/__social-icon/footer__social-icon.css");
 @import url("../blocks/opacity/opacity.css");
+
